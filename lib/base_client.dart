@@ -184,7 +184,7 @@ class BaseController {
     if (error is BadRequestException) {
       var message = error.message;
       var err = json.decode(message!);
-      DialogHelper.showErroDialog(description: err[0]['message']);
+      DialogHelper.showErroDialog(description: err['message']);
     } else if (error is FetchDataException) {
       var message = error.message;
       DialogHelper.showErroDialog(description: message);
