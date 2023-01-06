@@ -38,7 +38,7 @@ class ProfileView extends StatelessWidget {
             height: 15,
           ),
           Text(
-            userModel.name!,
+            userModel.name ?? '',
             style: const TextStyle(
                 color: Colors.white, fontSize: 22, fontWeight: FontWeight.w500),
           ),

@@ -84,6 +84,7 @@ class Controller extends GetxController with BaseController {
       final githubAuthCredential = GithubAuthProvider.credential(result.token);
       GetStorage().write(gitAuthID, result.token.toString());
       // Once signed in, return the UserCredential
+      print(result.token + "ggggg");
       await FirebaseAuth.instance.signInWithCredential(githubAuthCredential);
       //Success-Redirection
       init();

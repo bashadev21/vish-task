@@ -34,12 +34,12 @@ class HomeView extends StatelessWidget {
                                 NetworkImage(user.avatarUrl.toString())),
                       ),
                       title: Text(
-                        user.name!.toString(),
+                        user.name ?? user.login!.toString(),
                         style: const TextStyle(
                             color: Colors.white, fontWeight: FontWeight.w500),
                       ),
                       subtitle: Text(
-                        user.login!.toString(),
+                        user.name == null ? '' : user.login!.toString(),
                         style: const TextStyle(color: Colors.white),
                       ),
                     ),
