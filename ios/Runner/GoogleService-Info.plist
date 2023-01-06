@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>130783970065-96ao46igiin4tru396fptqoiv2igvvem.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.130783970065-96ao46igiin4tru396fptqoiv2igvvem</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>130783970065-iqd7q7f8so07n788hvpe6d0so318qffe.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB_DMli7qJhL_m50uP9qF9Q5fuLrBoo14U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>130783970065</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dev.vishtask</string>
+	<key>PROJECT_ID</key>
+	<string>vish-task</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vish-task.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:130783970065:ios:a1f0ebd5e3057786b6c2b0</string>
+	<key>DATABASE_URL</key>
+	<string>https://vish-task-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

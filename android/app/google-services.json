@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "130783970065",
+    "project_id": "vish-task",
+    "storage_bucket": "vish-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130783970065:android:e4d322d8be717f4cb6c2b0",
+        "android_client_info": {
+          "package_name": "com.dev.vishtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130783970065-q5jfq161nt05a5ti3ubck7jtd9nf97fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkzULRQZobmxwPUHXe0JoXQPs-ISaMJY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130783970065-q5jfq161nt05a5ti3ubck7jtd9nf97fb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
